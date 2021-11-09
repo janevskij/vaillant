@@ -1,0 +1,1 @@
+/home/vaillant/public_html/lib/web/jquery/jquery.metadata.js

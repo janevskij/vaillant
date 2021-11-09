@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1636493566;s:6:"expire";i:1636497166;s:4:"tags";s:48:"908_BLOCK_HTML,908_CAT_P_2009,908_CAT_P,908_MAGE";}
+                <div class="swatch-opt-2009"
+         data-role="swatch-option-2009"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-2009]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"144":{"id":"144","code":"size","label":"Size","options":[{"id":"171","label":"28","products":["2004"]},{"id":"172","label":"29","products":["2005"]},{"id":"173","label":"30","products":["2006"]},{"id":"174","label":"31","products":["2007"]},{"id":"175","label":"32","products":["2008"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"57","label":"Purple","products":["2004","2005","2006","2007","2008"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"2004":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2005":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2006":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2007":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2008":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44}},"productId":"2009","chooseText":"Choose an Option...","images":[],"index":{"2004":{"144":"171","93":"57"},"2005":{"144":"172","93":"57"},"2006":{"144":"173","93":"57"},"2007":{"144":"174","93":"57"},"2008":{"144":"175","93":"57"}},"channel":"website","salesChannelCode":"base","sku":{"2004":"WSH08-28-Purple","2005":"WSH08-29-Purple","2006":"WSH08-30-Purple","2007":"WSH08-31-Purple","2008":"WSH08-32-Purple"}},
+                    "jsonSwatchConfig": {"144":{"171":{"type":"0","value":"28","label":"28"},"172":{"type":"0","value":"29","label":"29"},"173":{"type":"0","value":"30","label":"30"},"174":{"type":"0","value":"31","label":"31"},"175":{"type":"0","value":"32","label":"32"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"57":{"type":"1","value":"#ef3dff","label":"Purple"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "https\u003A\u002F\u002Fvaillant.amd.bointsoft.com\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-2009]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44}}                    }
+                }
+            }
+        }
+    </script>

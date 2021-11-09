@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1636493566;s:6:"expire";i:1636497166;s:4:"tags";s:48:"908_BLOCK_HTML,908_CAT_P_2023,908_CAT_P,908_MAGE";}
+                <div class="swatch-opt-2023"
+         data-role="swatch-option-2023"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-2023]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"144":{"id":"144","code":"size","label":"Size","options":[{"id":"171","label":"28","products":["2017","2018","2019"]},{"id":"172","label":"29","products":["2020","2021","2022"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"49","label":"Black","products":["2017","2020"]},{"id":"56","label":"Orange","products":["2018","2021"]},{"id":"59","label":"White","products":["2019","2022"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"2017":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40},"tierPrices":[],"msrpPrice":{"amount":0}},"2018":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40},"tierPrices":[],"msrpPrice":{"amount":0}},"2019":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40},"tierPrices":[],"msrpPrice":{"amount":0}},"2020":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40},"tierPrices":[],"msrpPrice":{"amount":0}},"2021":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40},"tierPrices":[],"msrpPrice":{"amount":0}},"2022":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40}},"productId":"2023","chooseText":"Choose an Option...","images":[],"index":{"2017":{"144":"171","93":"49"},"2018":{"144":"171","93":"56"},"2019":{"144":"171","93":"59"},"2020":{"144":"172","93":"49"},"2021":{"144":"172","93":"56"},"2022":{"144":"172","93":"59"}},"channel":"website","salesChannelCode":"base","sku":{"2017":"WSH10-28-Black","2018":"WSH10-28-Orange","2019":"WSH10-28-White","2020":"WSH10-29-Black","2021":"WSH10-29-Orange","2022":"WSH10-29-White"}},
+                    "jsonSwatchConfig": {"144":{"171":{"type":"0","value":"28","label":"28"},"172":{"type":"0","value":"29","label":"29"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"49":{"type":"1","value":"#000000","label":"Black"},"56":{"type":"1","value":"#eb6703","label":"Orange"},"59":{"type":"1","value":"#ffffff","label":"White"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "https\u003A\u002F\u002Fvaillant.amd.bointsoft.com\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-2023]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":40},"oldPrice":{"amount":40},"basePrice":{"amount":40},"finalPrice":{"amount":40}}                    }
+                }
+            }
+        }
+    </script>
