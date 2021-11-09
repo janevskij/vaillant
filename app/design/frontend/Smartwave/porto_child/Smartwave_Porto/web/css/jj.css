@@ -1,0 +1,9 @@
+/* html .action.primary {
+    color: #fff;
+    background-color: #007465 !important;
+    border-color: #65829d #65829d #51697f;
+} */
+
+body .footer .newsletter .action.subscribe {
+    background-color: #007465 !important;
+}

@@ -1,0 +1,10 @@
+html .action.subscribe {
+    background-color: #007465 !important;
+}
+
+html .action.subscribe:hover {
+    background-color: #014e44 !important;
+}
+.joco{
+    text-shadow: none !important;
+}
